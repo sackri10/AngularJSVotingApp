@@ -1,0 +1,6 @@
+namespace APMWebapi.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
